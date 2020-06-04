@@ -1,0 +1,49 @@
+{
+  "name": "aggregator-cexio",
+  "version": "0.0.1",
+  "description": "nodejs client for aggregator.cex.io",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggregator-cexio/node-client.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "API",
+    "exchange",
+    "real-time",
+    "trading",
+    "cryptoexchange",
+    "crypto",
+    "bitcoin",
+    "ethereum",
+    "trade"
+  ],
+  "author": "aggregator.cex.io",
+  "contributors": [
+    {
+      "email": "ilagnev@gmail.com",
+      "name": "Nick Golovnov",
+      "url": "http://ilagnev.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aggregator-cexio/node-client/issues"
+  },
+  "homepage": "https://github.com/aggregator-cexio/node-client",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "log4js": "^6.3.0"
+  }
+}
