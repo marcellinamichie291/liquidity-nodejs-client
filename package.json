@@ -1,6 +1,6 @@
 {
   "name": "aggregator-cexio",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "nodejs client for aggregator.cex.io",
   "main": "index.js",
   "directories": {
