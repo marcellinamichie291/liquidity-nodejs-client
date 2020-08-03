@@ -126,7 +126,7 @@ If some error was occured then method rejects with status code and error descrip
 ```
 
 ### Subscribe to updates
-The WebsocketClient allows you to receive updates. At the now available two types of updates `account_update` and `executionReport`. You can get more detail about them in [documentation](https://docs-aggregator.cex.io/#websocket-account-events).
+The WebsocketClient allows you to receive updates. At the now available two types of updates `account_update` and `executionReport`. You can get more details about them in [documentation](https://docs-aggregator.cex.io/#websocket-account-events).
 
 ```js
 const { WebsocketClient } = require('aggregator-cexio')
