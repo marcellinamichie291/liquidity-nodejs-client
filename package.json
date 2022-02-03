@@ -1,7 +1,7 @@
 {
-  "name": "aggregator-cexio",
-  "version": "0.1.1",
-  "description": "nodejs client for aggregator.cex.io",
+  "name": "cexio-prime-liquidity",
+  "version": "0.1.2",
+  "description": "The official Node.js client for CEX.IO Prime Liquidity API",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aggregator-cexio/node-client.git"
+    "url": "git+https://github.com/cex-io-prime/liquidity-nodejs-client.git"
   },
   "engines": {
     "node": ">=8"
@@ -27,7 +27,7 @@
     "ethereum",
     "trade"
   ],
-  "author": "aggregator.cex.io",
+  "author": "cex.io",
   "contributors": [
     {
       "email": "ilagnev@gmail.com",
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aggregator-cexio/node-client/issues"
+    "url": "https://github.com/cex-io-prime/liquidity-nodejs-client/issues"
   },
-  "homepage": "https://github.com/aggregator-cexio/node-client",
+  "homepage": "https://github.com/cex-io-prime/liquidity-nodejs-client",
   "dependencies": {
     "request": "^2.88.2",
     "ws": "^7.3.0"
