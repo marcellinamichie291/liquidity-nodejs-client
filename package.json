@@ -1,6 +1,6 @@
 {
   "name": "cexio-prime-liquidity",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "The official Node.js client for CEX.IO Prime Liquidity API",
   "main": "index.js",
   "directories": {
